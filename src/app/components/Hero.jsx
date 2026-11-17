@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 const slides = [
   {
     eyebrow: "AGROCHEMICAL MANUFACTURING",
-    title: <>Protecting Crops.<br /><span>Empowering Agriculture.</span></>,
+    title: <>Protecting Crops.<br /><span>Empo Agriculture.</span></>,
     description:
       "Supporting agricultural progress with focused agrochemical manufacturing and dependable B2B partnerships.",
     image:
